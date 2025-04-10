@@ -31,10 +31,10 @@ The tests automate scenarios on the [OrangeHRM Demo](https://opensource-demo.ora
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/orangehrm-playwright-automation.git
+git clone https://github.com/your-username/playwrite.git
 cd orangehrm-playwright-automation
 
-### 2. SEtup Python Environment
+### 2. Setup Python Environment
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
