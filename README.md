@@ -31,7 +31,6 @@ The tests automate scenarios on the [OrangeHRM Demo](https://opensource-demo.ora
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/your-username/orangehrm-playwright-automation.git
 cd orangehrm-playwright-automation
 
