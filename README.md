@@ -12,7 +12,6 @@ The tests automate scenarios on the [OrangeHRM Demo](https://opensource-demo.ora
 - ✅ Playwright with Python
 - ✅ Pytest as test runner
 - ✅ Page Object Model (POM)
-- ✅ Screenshot and video capture
 - ✅ Data-driven testing (Coming Soon)
 - ✅ Allure reporting (Coming Soon)
 - ✅ GitHub Actions CI/CD (Coming Soon)
