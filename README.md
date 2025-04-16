@@ -1,6 +1,6 @@
 # Playwright
 
-# 🧪 OrangeHRM Playwright Automation Project (Python)
+ 🧪 OrangeHRM Playwright Automation Project (Python)
 
 This is an End-to-End (E2E) Test Automation framework built using **Playwright with Python** and **Pytest**.  
 The tests automate scenarios on the [OrangeHRM Demo](https://opensource-demo.orangehrmlive.com/) application.
