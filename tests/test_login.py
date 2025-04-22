@@ -1,11 +1,9 @@
-from playwright.sync_api import Page
+from pages.login_page import LoginPage
 
-def test(page:Page):
-    page.goto(" https://opensource-demo.orangehrmlive.com")
-
-def test_login_sucess(page:Page):
-    page.goto("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
-    page.get_by_label("Username").fill("Admin")
-    page.get_by_label("Password").fill("admin123")
+def test_login_valid_credentials(page):
+    page.goto("https://opensource-demo.orangehrmlive.com/")
+    login = LoginPage(page)
+    login.login("Admin", "admin123")
+    assert "dashboard" in page.url.lower()
 
 
