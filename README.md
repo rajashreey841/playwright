@@ -20,10 +20,11 @@ The tests automate scenarios on the [OrangeHRM Demo](https://opensource-demo.ora
 
 | Test Case ID | Description                        |
 |--------------|------------------------------------|
-| TC01         | Login with valid credentials       |
-| TC02         | Logout                             |
-| TC03         | Add a new employee                 |
-| TC04         | Search for an employee             |
+| TC01         | Login with valid credentials  
+| TC02           Dashboards 
+| TC03         | Logout                             |
+| TC04         | Add a new employee                 |
+| TC05        | Search for an employee             |
 
 ---
 ## 🚀 Getting Started
